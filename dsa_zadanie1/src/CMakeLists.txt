@@ -1,0 +1,1 @@
+add_executable(zadanie1 main.cpp)
